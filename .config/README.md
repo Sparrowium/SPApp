@@ -1,1 +1,1 @@
-Folder for app configuration.
+Folder for configuration.
